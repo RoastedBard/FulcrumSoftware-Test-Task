@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FulcrumSoftwareTestTask", "FulcrumSoftwareTestTask.vcxproj", "{C946F16F-0447-42F5-ADB3-04422234BEB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C946F16F-0447-42F5-ADB3-04422234BEB5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C946F16F-0447-42F5-ADB3-04422234BEB5}.Debug|Win32.Build.0 = Debug|Win32
+		{C946F16F-0447-42F5-ADB3-04422234BEB5}.Release|Win32.ActiveCfg = Release|Win32
+		{C946F16F-0447-42F5-ADB3-04422234BEB5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
