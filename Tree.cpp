@@ -71,7 +71,7 @@ int Tree::DeSerializeTree(Node &root, ifstream &file)
 	string type, data;
 
 	int pos = line.find('_');
-	int typeLength = (line.length() + 1) - pos;
+	int typeLength = (line.length() + 1) - pos; // NOT USED ANYWHERE
 	type = line.substr(0, pos);
 
 	data = line.substr(pos + 1, line.npos);
