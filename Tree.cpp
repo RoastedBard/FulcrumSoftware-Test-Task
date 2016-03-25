@@ -80,6 +80,7 @@ int Tree::DeSerializeTree(Node &root, ifstream &file)
 	Node n;
 	root = n;
 
+	// Add exception handling with wrong input
 	switch(getEnumValue(type))
 	{
 	case DATA_INT:
